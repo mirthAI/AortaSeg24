@@ -80,6 +80,3 @@ To access the dataset, please participate in the **[AortaSeg24 Challenge](https:
     journal={arXiv preprint arXiv:2502.05330},
     year={2025},
     url = {https://arxiv.org/abs/2502.05330}}
-
-
----
