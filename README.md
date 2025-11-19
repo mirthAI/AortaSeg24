@@ -45,7 +45,7 @@ The output is a 3D segmentation model mirroring the input image characteristics,
 
 <!-- To access the dataset, please participate in the **[AortaSeg24 Challenge](https://aortaseg24.grand-challenge.org/)** hosted on the Grand Challenge platform. Begin by visiting the challenge page and proceed to complete the **[Data Agreement Form](https://aortaseg24.grand-challenge.org/dataset-access-information/)**. Upon submission and approval, you will gain full access to the dataset. -->
 
-The **[AortaSeg24 Challenge](https://aortaseg24.grand-challenge.org/)** has concluded, and the dataset is now openly available to anyone upon completing the Data Use Agreement (DUA) form. To access the dataset, please fill out the **[Data Use Agreement (DUA)](https://na3.docusign.net/Signing/?insession=1&ti=6b0e424fd8404091b7e42e69f737fbfa)** form. Upon submission and approval, you will gain full access to the dataset.
+The **[AortaSeg24 Challenge](https://aortaseg24.grand-challenge.org/)** has concluded, and the dataset is now openly available to anyone upon completing the Data Use Agreement (DUA) form. To access the dataset, please fill out the **[Data Use Agreement (DUA)](powerforms.docusign.net/1e71cea6-b652-4f89-b1e4-5f72f7cbd3d4?env=na3&acct=38f380cc-7bc9-468e-9c99-fc5ba7151d54&accountId=38f380cc-7bc9-468e-9c99-fc5ba7151d54)** form. Upon submission and approval, you will gain full access to the dataset.
 
 ---
 
