@@ -9,6 +9,7 @@ Welcome to the **AortaSeg24** challenge, where innovation meets collaboration in
 
 
 ![mybage](https://img.shields.io/badge/Revolutionize%20Aortic%20Segmentation-sienna?style=flat&logoSize=1000&label=AortaSeg24&labelColor=teal&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAALBSURBVDhPjZTPaxNBFMffbrLZySbZzSZtfmy2talN2tjSYiNIq2IDtkS8lSIVrYiCIApiD14EEYoH9ewfIKIIPXj3ogiCYAt6lSpaxR/QUmxt021qnrOzabrb3UK/4ZM3896b2Zk3swtUuBeIj8NWKeAZs8PTP09pYYHZG31JZk+kFehRJNaOC35mveSasDlkJY93q8yKfh70kAC/KlWo/KtBT0SCSy0J90CbHEueGkkzq0cEh99ONiiij9pHuRzuF8nOuNUopEQc61PMGmCA1suW4ElJlbGsRlm7XSCo+a36cvUEGO6KgFGtwetPq2Z3z5qIJcCgpXi7ugLzmwZwebqy3gyBn0ub8Oaz92RHkmEQgINXv1fqHqfMekocD3+xBvzXhQ2QiQ9m59esqE3HMmF4f6Yb2iIiJIMCvBjqgnE9Xo9uq0Z5numGEomyPtt7SOSZ3SLo5/DduYJZE4yLfua7WUjj02IO2yXRkeugt4XgaL/iCtwrZdhJ5xURly8U8VpnErMha6Lp/rwrfyio4KAoIz9ZboYnl1upzymO/gI8Bx//GHBr5htMHdRBpH0r5taDpnaYiraxtutpJiGBx5mJAmYj29u726vjs0M57JBcd6+BT5V8d3roKXcmCHxZ3KA+S9UawtySAY+Hs7BqIHRGCIxqMZj+vggvF5brWZbKYRUGiQwfDOuW4NnDURwvWpfUi5IWwRHNXWc75+UEisBeCMC0Yp2iruz+uu3GabUJ+0jI7rMaFwdieGUwbg/sCZHj8H6qbWt1JlYgKHBIKCfzMhY1qTFgNzqCBCc1zeVvfIUqVYR1inkYsz/W4PbRNPMfUAmzpzJRoPcQdBKAq61JmKus02vEw0S8mcXtcj3FZDgrM/vw+D5URR8ONIXxej6FAbrFsVQM/dTuHFPH09kgJVkHpdPPvyz4XHEngP8Bjxlvxv94ZMIAAAAASUVORK5CYII=)
+[![Proceedings](https://img.shields.io/badge/Proceedings-LNCS%2016399-blue)](http://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=16399)
 
 </div>
 
@@ -49,11 +50,28 @@ The **[AortaSeg24 Challenge](https://aortaseg24.grand-challenge.org/)** has conc
 
 ---
 
-<h1><center><u><b>Citation</b></u></center></h1>
+<h2><center><u><b>Publications & Citation</b></u></center></h2>
 
-**If you utilize our code or dataset in your research, we kindly ask you to acknowledge our work by citing the following publications:**
+The challenge proceedings have been published in **Lecture Notes in Computer Science (LNCS)**, Volume 16399. You can access the full papers of the top-performing teams here:
+
+[**Multi-class Segmentation of the Aorta (LNCS 16399)**](http://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=16399)
+
+**If you utilize our code, dataset, or the proceedings in your research, we kindly ask you to cite the following:**
+
+
 ```bibtex
-1. @article{IMRAN2024102470,
+1. @book{AortaSeg2024,
+  editor    = {Imran, Muhammad and Krebs, Jonathan R. and Cooper, Michol A. and Ma, Jun and Zhou, Yuyin and Shao, Wei},
+  title     = {Multi-class Segmentation of the Aorta},
+  subtitle  = {AortaSeg 2024 Challenge, Held in Conjunction with MICCAI 2024, Virtual Event, October 24, 2024, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {16399},
+  year      = {2026},
+  publisher = {Springer Nature Switzerland AG},
+  address   = {Cham},
+  doi       = {10.1007/978-3-032-14246-7}}
+
+2. @article{IMRAN2024102470,
     title = {CIS-UNet: Multi-class segmentation of the aorta in computed tomography angiography via context-aware shifted window self-attention},
     author = {Muhammad Imran and Jonathan R. Krebs and Veera Rajasekhar Reddy Gopu and Brian Fazzone and Vishal Balaji Sivaraman and Amarjeet Kumar and Chelsea Viscardi and Robert Evans Heithaus and Benjamin Shickel and Yuyin Zhou and Michol A. Cooper and Wei Shao},
     journal = {Computerized Medical Imaging and Graphics},
@@ -64,7 +82,7 @@ The **[AortaSeg24 Challenge](https://aortaseg24.grand-challenge.org/)** has conc
     doi = {https://doi.org/10.1016/j.compmedimag.2024.102470},
     url = {https://www.sciencedirect.com/science/article/pii/S0895611124001472}}
 
-2. @article{KREBS20241025,
+3. @article{KREBS20241025,
     title = {Volumetric analysis of acute uncomplicated type B aortic dissection using an automated deep learning aortic zone segmentation model},
     author = {Jonathan R. Krebs and Muhammad Imran and Brian Fazzone and Chelsea Viscardi and Benjamin Berwick and Griffin Stinson and Evans Heithaus and Gilbert R. Upchurch and Wei Shao and Michol A. Cooper},
     journal = {Journal of Vascular Surgery},
@@ -76,7 +94,7 @@ The **[AortaSeg24 Challenge](https://aortaseg24.grand-challenge.org/)** has conc
     doi = {https://doi.org/10.1016/j.jvs.2024.06.001},
     url = {https://www.sciencedirect.com/science/article/pii/S074152142401245X}}
 
-3. @article{IMRAN2025AORTASEG24,
+4. @article{IMRAN2025AORTASEG24,
     title={Multi-Class Segmentation of Aortic Branches and Zones in Computed Tomography Angiography: The AortaSeg24 Challenge},
     author={Muhammad Imran and  Jonathan R Krebs and Vishal Balaji Sivaraman and Teng Zhang and ... and Jun Ma and Yuyin Zhou and Michol A. Cooper and Wei Shao},
     journal={arXiv preprint arXiv:2502.05330},
